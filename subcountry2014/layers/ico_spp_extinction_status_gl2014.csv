@@ -1,4 +1,6 @@
 "rgn_id","sciname","category"
+1," Carcharhinus perezi",6
+1," Monachus monachus ",1
 1,"Alopias vulpinus",7
 1,"Balaena mysticetus",5
 1,"Balaenoptera acutorostrata",5
@@ -11,7 +13,6 @@
 1,"Caperea marginata",2
 1,"Carcharhinus amblyrhynchos",6
 1,"Carcharhinus melanopterus",6
-1," Carcharhinus perezi",6
 1,"Carcharodon carcharias",7
 1,"Caretta caretta",3
 1,"Cephalorhynchus hectori",3
@@ -55,7 +56,6 @@
 1,"Mesoplodon hectori",2
 1,"Mesoplodon layardii",2
 1,"Mesoplodon mirus",2
-1," Monachus monachus ",1
 1,"Natator depressus",2
 1,"Orcaella brevirostris",7
 1,"Orcaella heinsohni",6
@@ -78,6 +78,8 @@
 1,"Tursiops truncatus",5
 1,"Ursus maritimus",7
 1,"Ziphius cavirostris",5
+2," Carcharhinus perezi",6
+2," Monachus monachus ",1
 2,"Alopias vulpinus",7
 2,"Balaena mysticetus",5
 2,"Balaenoptera acutorostrata",5
@@ -90,7 +92,6 @@
 2,"Caperea marginata",2
 2,"Carcharhinus amblyrhynchos",6
 2,"Carcharhinus melanopterus",6
-2," Carcharhinus perezi",6
 2,"Carcharodon carcharias",7
 2,"Caretta caretta",3
 2,"Cephalorhynchus hectori",3
@@ -134,7 +135,6 @@
 2,"Mesoplodon hectori",2
 2,"Mesoplodon layardii",2
 2,"Mesoplodon mirus",2
-2," Monachus monachus ",1
 2,"Natator depressus",2
 2,"Orcaella brevirostris",7
 2,"Orcaella heinsohni",6
@@ -157,6 +157,8 @@
 2,"Tursiops truncatus",5
 2,"Ursus maritimus",7
 2,"Ziphius cavirostris",5
+3," Carcharhinus perezi",6
+3," Monachus monachus ",1
 3,"Alopias vulpinus",7
 3,"Balaena mysticetus",5
 3,"Balaenoptera acutorostrata",5
@@ -169,7 +171,6 @@
 3,"Caperea marginata",2
 3,"Carcharhinus amblyrhynchos",6
 3,"Carcharhinus melanopterus",6
-3," Carcharhinus perezi",6
 3,"Carcharodon carcharias",7
 3,"Caretta caretta",3
 3,"Cephalorhynchus hectori",3
@@ -213,7 +214,6 @@
 3,"Mesoplodon hectori",2
 3,"Mesoplodon layardii",2
 3,"Mesoplodon mirus",2
-3," Monachus monachus ",1
 3,"Natator depressus",2
 3,"Orcaella brevirostris",7
 3,"Orcaella heinsohni",6
