@@ -6,8 +6,8 @@ branches:
 
 env:
   global:
-  - default_branch_scenario="published/subcountry2014"
-  - study_area="Poland"
+  - default_branch_scenario: "published/subcountry2014"
+  - study_area: "Poland"
 
 matrix:
   fast_finish: true # finish at first failure
